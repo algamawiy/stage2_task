@@ -14,3 +14,5 @@ class Arithmetic(models.Model):
     y = models.IntegerField()
     
     
+    
+    
