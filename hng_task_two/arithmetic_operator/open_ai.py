@@ -1,7 +1,7 @@
 import openai
 
 def operation_type(stext):
-    openai.api_key = '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'
+    openai.api_key = 'Enter your secrete key here' #secrete needed here
 
     response = openai.Completion.create(
       model="text-davinci-002",
